@@ -18,26 +18,31 @@ Follow the instructions below to run the application locally.
    ```bash
    git clone https://github.com/zachbray9/Pup-Finder.git
    cd Pup-Finder/client
+   ```
 
 2. **Install Dependencies**
 
    Using npm:
-   ```bash
+   ```
    npm install
+   ```
 
    Using yarn:
-   ```bash
+   ```
    yarn
+   ```
 
 4. **Start the Development Server**
 
    Using npm:
-   ```bash
+   ```
    npm run dev
+   ```
   
    Using yarn:
-   ```bash
+   ```
    yarn dev
+   ```
 
 6. **Open in Browser**
 
