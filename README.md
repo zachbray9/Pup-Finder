@@ -42,11 +42,11 @@ Follow the instructions below to run the application locally.
 
 ## Tech Stack
 
--React
--Vite
--Typescript
--TailwindCSS
--ShadCn
--MobX
+- React
+- Vite
+- Typescript
+- TailwindCSS
+- ShadCn
+- MobX
 
    
