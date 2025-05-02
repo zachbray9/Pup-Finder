@@ -22,20 +22,24 @@ Follow the instructions below to run the application locally.
 2. **Install Dependencies**
 
    Using npm:
-   - npm install
+   ```bash
+   npm install
 
    Using yarn:
-   - yarn
+   ```bash
+   yarn
 
-3. **Start the Development Server**
+4. **Start the Development Server**
 
    Using npm:
-   - npm run dev
+   ```bash
+   npm run dev
   
    Using yarn:
-   - yarn dev
+   ```bash
+   yarn dev
 
-4. **Open in Browser**
+6. **Open in Browser**
 
    Once the server starts, open your browser and visit:
    http://localhost:5173
